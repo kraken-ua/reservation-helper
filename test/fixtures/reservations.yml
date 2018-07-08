@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  reserve_start: 2018-07-08 22:08:26
+  reserve_end: 2018-07-08 22:08:26
+  table: one
+  client: one
+
+two:
+  reserve_start: 2018-07-08 22:08:26
+  reserve_end: 2018-07-08 22:08:26
+  table: two
+  client: two

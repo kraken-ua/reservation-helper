@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  work_from: 2018-07-08 22:05:18
+  work_to: 2018-07-08 22:05:18
+
+two:
+  name: MyString
+  work_from: 2018-07-08 22:05:18
+  work_to: 2018-07-08 22:05:18
